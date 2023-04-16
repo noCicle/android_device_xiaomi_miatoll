@@ -109,10 +109,6 @@ vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.1-impl.so
 vendor/lib/libbluetooth_audio_session_qti.so
 vendor/lib/libbluetooth_audio_session_qti_2_1.so
 
-# Bluetooth (aptX) - from raven - TP1A.220624.021
-system_ext/lib64/libaptXHD_encoder.so|e13fa70c97caaa24d061678bdee608eb8850a69e
-system_ext/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
-
 # Camera sensors (curtana & gram)  - from V12.5.5.0.RJWMIXM
 vendor/lib64/camera/com.qti.sensormodule.ofilm_gc02m1_filter.bin|4687d1d2eb8d36b5bed2ceafb197ef21d22bd97e
 vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgm2.bin|5ebb58c43e95d598f35a0808a0497f51affdcbd6
